@@ -1,2 +1,1 @@
-# tct
-Telematics Configuration Tool
+# Telematics Configuration Tool
